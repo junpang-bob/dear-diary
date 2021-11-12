@@ -1,5 +1,5 @@
 <template>
-  <div>test</div>
+  <div>test 大大大</div>
 </template>
 
 <script setup lang="ts"></script>
